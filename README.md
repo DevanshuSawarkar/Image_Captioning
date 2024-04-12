@@ -5,8 +5,8 @@ This project implements an image captioning model using deep learning techniques
 ## Data
 The dataset used for this project is the Flickr8k dataset, which contains 8092 images in jpeg format. Each image is accompanied by 5 descriptions.
 
-- [Flickr8k Dataset]()
-- [Flickr8k Text]()
+- [Flickr8k Dataset](https://github.com/DevanshuSawarkar/Image_Captioning/releases/download/Flickr8K/Flickr8k_Dataset.zip)
+- [Flickr8k Text](https://github.com/DevanshuSawarkar/Image_Captioning/releases/download/Flickr8K/Flickr8k_text.zip)
 
 ## Model
 The model is built and trained using Keras. It consists of two main components:
